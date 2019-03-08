@@ -1,0 +1,5 @@
+module Click_IR_eclipse_config
+
+include Click_IR_eclipse_types
+
+end.

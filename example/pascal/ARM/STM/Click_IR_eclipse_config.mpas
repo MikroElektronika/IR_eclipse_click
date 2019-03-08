@@ -1,0 +1,5 @@
+unit Click_IR_eclipse_config;
+
+uses Click_IR_eclipse_types;
+
+end.
